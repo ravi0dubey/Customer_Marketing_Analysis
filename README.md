@@ -1,4 +1,4 @@
-# Customer_Marketing_Analysis
+# Customer_Marketing_Analysis for Recency, Frequency and Monetary value.
 
 **Problem Statement**
 1. How are the sales, profit and orders for different segment of customers across various markets and categories </br>
